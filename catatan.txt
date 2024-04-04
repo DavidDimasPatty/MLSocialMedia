@@ -1,0 +1,15 @@
+K MEANS
+-Pengklasteran k rata-rata adalah algoritme untuk membagi n pengamatan menjadi k 
+kelompok sedemikian hingga tiap pengamatan termasuk ke dalam kelompok dengan rata-rata terdekat
+
+TF-IDF (Untuk modeling text)
+adalah ukuran pentingnya sebuah kata pada dokumen dalam kumpulan atau korpus , 
+disesuaikan dengan fakta bahwa beberapa kata lebih sering muncul secara umum
+
+Word Embedding
+Typically, the representation is a real-valued vector that encodes the meaning of 
+the word in such a way that the words that are closer in the vector space are expected to be similar in meaning
+
+Latent Dirichlet Allocation (LDA) 
+adalah sebuah metode untuk mendeteksi topik-topik yang ada pada koleksi dokumen beserta proporsi kemunculan topik 
+tersebut, baik di koleksi maupun di dokumen tertentu.
